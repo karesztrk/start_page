@@ -1,0 +1,37 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/karesztrk/start_page/master/README.md",
+  "title": "Start page",
+  "name": "Károly Török",
+  "ascii": "liveterm",
+  "social": {
+    "github": "karesztrk",
+    "linkedin": "károly-török-17541b80"
+  },
+  "email": "torok.karoly.krisztian@gmail.com",
+  "ps1_hostname": "startpage",
+  "ps1_username": "🚀 visitor",
+  "repo": "https://github.com/karesztrk/start_page",
+  "resume_url": "https://karolytorok.netlify.app/doc/Karoly_Torok.pdf",
+  "colors": {
+    "light": {
+      "background": "#EDECEE",
+      "foreground": "#15141B",
+      "yellow": "#D79921",
+      "green": "hsl(160, 100%, 35%)",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124",
+      "purple": "hsl(259, 100%, 63%)"
+    },
+    "dark": {
+      "background": "#15141B",
+      "foreground": "#EDECEE",
+      "yellow": "#FFCA85",
+      "green": "#61FFCA",
+      "gray": "#88C0D0",
+      "blue": "#61FFCA",
+      "red": "#FF6767",
+      "purple": "#A277FF"
+    }
+  }
+}
